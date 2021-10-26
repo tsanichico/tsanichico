@@ -1,4 +1,4 @@
-[![denandrapr](./banner.png)][1]
+![denandrapr](./banner.png)
 
 ### Hi there 👋
 
