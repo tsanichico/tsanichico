@@ -7,7 +7,7 @@ My name Denandra Prasetya and I'm software developer, I'm from Indonesia living 
 <!--START_SECTION:stats-->
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/denandrapr/denandrapr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denandrapr&hide=java,html&title_color=000000&text_color=000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denandrapr&layout=compact&hide=java,html&title_color=000000&text_color=000000" />
 </a>
 
 <a href="https://github.com/denandrapr/denandrapr">
