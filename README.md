@@ -11,6 +11,6 @@ My name Denandra Prasetya and I'm software developer, I'm from Indonesia living 
 </a>
 
 <a href="https://github.com/denandrapr/denandrapr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=denandrapr&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="denandrapr's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=denandrapr&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="denandrapr's GitHub Stats" />
 </a>
 <!--END_SECTION:stats-->
