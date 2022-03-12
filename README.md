@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name Denandra Prasetya and I'm software developer, I'm from Indonesia living in Surabaya and currently working at Telkom Indonesia as Mobile Developer. Working with JavaScript, Kotlin, React Native, TypeScript, and NodeJs
+My name is Denandra Prasetya and I'm mobile developer, I'm from Indonesia living in Surabaya and currently working at Akar Inti Teknologi as Android Developer. Working with Kotlin, Java, React Native, ReactJS
 
 <!--START_SECTION:stats-->
 ## &#x1f4c8; My GitHub Stats
