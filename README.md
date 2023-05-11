@@ -14,7 +14,7 @@ My name is Tsani Chico Bragi currently learning UI/UX Design & Flutter, Based on
 <!--START_SECTION:stats-->
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/tsanichico">
-  <img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=tsanichico&theme=blueberry_duo">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tsanichico&theme=blueberry_duo">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tsanichico&theme=tokyonight&show_icons=true" align="left" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsanichico&theme=tokyonight&layout=compact" />
 </a>
