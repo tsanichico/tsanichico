@@ -1,17 +1,21 @@
-[![@denandrapr's Holopin board](https://holopin.me/denandrapr)](https://holopin.io/@denandrapr)
+### Hi, I'm Chico 👋
+[![@tsanichico's Holopin board](https://holopin.me/tsanichico)](https://holopin.io/@tsanichico)
 
 ### Find me on
 
-[<img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:denandra.prasetya@akarinti.tech) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/denandra-prasetya/) [<img src ="https://img.shields.io/badge/Website-Nndraa.me-blue.svg?&style=for-the-badge">](https://nndraa.me/)
+[<img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hi.tsanichico@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tsanichico/)
 
-### Hi there 👋
+My name is Tsani Chico Bragi currently learning UI/UX Design & Flutter, Based on Indonesia🇮🇩 and living in Surabaya.
 
-My name is Denandra Prasetya and I'm mobile developer, I'm from Indonesia living in Surabaya and currently working at Akar Inti Teknologi as Android Developer. Working with Kotlin, Java, React Native, ReactJS
+- 🤍 I'm passionate about design, tech, and etc.
+
+- 🏎️ Fun fact: I am passionate about car racing 
 
 <!--START_SECTION:stats-->
 ## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/denandrapr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=denandrapr&theme=tokyonight&show_icons=true" align="left" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denandrapr&theme=tokyonight&layout=compact" />
+<a href="https://github.com/tsanichico">
+  <img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=tsanichico&theme=blueberry_duo">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tsanichico&theme=tokyonight&show_icons=true" align="left" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsanichico&theme=tokyonight&layout=compact" />
 </a>
 <!--END_SECTION:stats-->
