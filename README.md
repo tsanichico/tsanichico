@@ -1,4 +1,5 @@
-### Hi, I'm Chico 👋
+### Hi, What's up 
+### I'm Chico 👋
 [![@tsanichico's Holopin board](https://holopin.me/tsanichico)](https://holopin.io/@tsanichico)
 
 ### Find me on
