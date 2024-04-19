@@ -6,7 +6,7 @@
 
 [<img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hi.tsanichico@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tsanichico/)
 
-My name is Tsani Chico Bragi currently learning UI/UX Design & Flutter, Based on Indonesia🇮🇩 and living in Surabaya.
+My name is Tsani Chico Bragi currently learning UI/UX Design & Swift, Based on Indonesia🇮🇩 and living in Surabaya.
 
 - 🤍 I'm passionate about design, tech, and etc.
 
